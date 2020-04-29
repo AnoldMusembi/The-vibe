@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753721086801",
+    "firebase_url": "https://thevibe-f4ef9.firebaseio.com",
+    "project_id": "thevibe-f4ef9",
+    "storage_bucket": "thevibe-f4ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753721086801:android:03c364b0e7479cd3",
+        "android_client_info": {
+          "package_name": "com.majhub.thevibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753721086801-pje657as12tldtctejblauttl3tg543e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majhub.thevibe",
+            "certificate_hash": "e3a44641ebc33f2ec168ccaf92b269ae83b9861b"
+          }
+        },
+        {
+          "client_id": "753721086801-ngrmgpj52mi1grvusj045oc188rcq15k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANntMT7No5TnxRcrFFnHXOdu1pMULxiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753721086801-ngrmgpj52mi1grvusj045oc188rcq15k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
